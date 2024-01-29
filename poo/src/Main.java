@@ -6,7 +6,7 @@ public class Main {
 
     }
 
-    public static void printSquare(int git glength) {
+    public static void printSquare(int length) {
         //for that prints width
         for (int i = 1; i <= length; i++) {
             //for that prints height
